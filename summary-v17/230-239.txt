@@ -7,5 +7,5 @@ Script v17
  BỘ 5 TB: 0.1
  BỘ 5+TB: 0.0
  Số ĐB TB: 129.1
- Kỳ thu dưới vốn: 6/10 
- Tỉ lệ dưới vốn 60.0% 
+ Kỳ thu dưới 80%: 5/10 
+ Tỉ lệ dưới 80%: 50.0% 
